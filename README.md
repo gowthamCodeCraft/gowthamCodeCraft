@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gowtham&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software+Developer+%7C+AI+Engineer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gowtham&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full+Stack+Builder+%7C+AI+Engineer&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Gowtham+%F0%9F%91%8B;Full-Stack+%2B+AI+Engineer+%7C+2%2B+Years+XP;Building+RAG+Pipelines+%26+LLM+Agents;C%23+%2F+.NET+%7C+Python+%7C+React+%7C+Azure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Gowtham+%F0%9F%91%8B;AI+/+ML+Enthusiast;Architecting+RAG+Pipelines+%7C+LLMS+%7C+AI+Agents;C%23+%2F+.NET+%7C+React+%7C+Azure)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gowthamCodeCraft&style=flat-square&color=70A5FD&label=Profile+Views)](https://github.com/gowthamCodeCraft)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gowthamCodeCraft)
@@ -14,7 +14,9 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="center" width="55%">
 
 ```python
 class Gowtham:
@@ -48,7 +50,12 @@ me = Gowtham()
 print(me.motto())
 ```
 
-<br clear="right"/>
+</td>
+<td valign="center" align="center" width="45%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360"/>
+</td>
+</tr>
+</table>
 
 ---
 
