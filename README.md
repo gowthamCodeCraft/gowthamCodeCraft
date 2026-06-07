@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Gowtham+%F0%9F%91%8B;Full-Stack+%2B+AI+Engineer+%7C+2%2B+Years+XP;Building+RAG+Pipelines+%26+LLM+Agents;C%23+%2F+.NET+%7C+Python+%7C+React+%7C+Azure)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=gowtham692000&style=flat-square&color=70A5FD&label=Profile+Views)](https://github.com/gowthamCodeCraft)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-o-w-t-h-a-m-44a29a207/)
-[![Email](https://img.shields.io/badge/Gmail-gowtham692000%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gowtham692000@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=gowthamCodeCraft&style=flat-square&color=70A5FD&label=Profile+Views)](https://github.com/gowthamCodeCraft)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gowthamCodeCraft)
+[![Email](https://img.shields.io/badge/Gmail-gowthamCodeCraft%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gowthamCodeCraft@gmail.com)
 
 </div>
 
@@ -99,10 +99,10 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/gowthamCodeCraft">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gowthamCodeCraft&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gowthamCodeCraft&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800&rank_icon=github"/>
 </a>
 <a href="https://github.com/gowthamCodeCraft">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamCodeCraft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamCodeCraft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
 </a>
 
 </div>
@@ -133,7 +133,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=gowthamCodeCraft&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/gowthamCodeCraft)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=gowthamCodeCraft&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/gowthamCodeCraft)
 
 </div>
 
