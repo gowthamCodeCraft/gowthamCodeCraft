@@ -133,7 +133,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy-six-omega.vercel.app/?username=gowthamCodeCraft&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/gowthamCodeCraft)
+[![Trophy](https://github-profile-trophy-brown-kappa.vercel.app/?username=gowthamCodeCraft&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/gowthamCodeCraft)
 
 </div>
 
