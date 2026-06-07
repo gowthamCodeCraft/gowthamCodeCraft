@@ -99,10 +99,10 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/gowthamCodeCraft">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gowthamCodeCraft&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats-eight-beige-98.vercel.app/api?username=gowthamCodeCraft&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800&rank_icon=github"/>
 </a>
 <a href="https://github.com/gowthamCodeCraft">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamCodeCraft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats-eight-beige-98.vercel.app/api/top-langs/?username=gowthamCodeCraft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
 </a>
 
 </div>
@@ -133,7 +133,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=gowthamCodeCraft&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/gowthamCodeCraft)
+[![Trophy](https://github-profile-trophy-six-omega.vercel.app/?username=gowthamCodeCraft&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/gowthamCodeCraft)
 
 </div>
 
