@@ -129,11 +129,19 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Highlights
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy-brown-kappa.vercel.app/?username=gowthamCodeCraft&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/gowthamCodeCraft)
+![Repos](https://img.shields.io/badge/Public%20Repos-4-70a5fd?style=for-the-badge&logo=github&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-bf91f3?style=for-the-badge&logo=briefcase&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-Full--Stack%20%2B%20AI-38bdae?style=for-the-badge&logo=stackshare&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![RAG](https://img.shields.io/badge/RAG%20Latency%20Reduction-60%25-70a5fd?style=for-the-badge&logo=speedtest&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL%20Ops%20Reduced-30%25-bf91f3?style=for-the-badge&logo=databricks&logoColor=white)
+![Incidents](https://img.shields.io/badge/Issue%20Resolution%20Faster-40%25-38bdae?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Code](https://img.shields.io/badge/Duplicate%20Code%20Cut-25%25-c9d1d9?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 </div>
 
